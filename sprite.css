@@ -1,0 +1,19 @@
+.shr_ss{position:relative;height:68px !important;overflow:visible !important;z-index:10002;}
+.fanWrapperPost{width:350px;height:350px;position:absolute;bottom:0px;overflow:visible !important;z-index:10003;}
+.fanWrapperViewport{width:350px;height:350px;position:fixed;bottom:10px;left:10px;z-index:10003;}
+.fanRotor{width:68px;height:68px;bottom:0px;left:0px;background:none;line-height:68px;text-align:center;cursor:pointer;position:absolute;font-weight:bold;z-index:10004;background-position:-510px 0;border-radius:34px;-moz-border-radius:34px;-webkit-border-radius:34px;/*
+-moz-box-shadow:0px 0px 5px 0px black;-webkit-box-shadow:0px 0px 5px 0px black;box-shadow:0px 0px 5px 0px black;*/
+-moz-transition:all 0.3s ease-in-out;-webkit-transition:all 0.3s ease-in-out;-o-transition:all 0.3s ease-in-out;-ms-transition:all 0.3s ease-in-out;transition:all 0.3s ease-in-out;}
+.fanRotorOpen{-moz-transform:rotate(-90deg);-webkit-transform:rotate(-90deg);-o-transform:rotate(-90deg);-ms-transform:rotate(-90deg);transform:rotate(-90deg);}
+.fanIcon{width:52px;height:52px;background:none;position:absolute;bottom:10px;left:10px;line-height:75px;text-align:center;font-weight:bold;z-index:5000;border-radius:26px;-moz-border-radius:26px;-webkit-border-radius:26px;/*
+-moz-box-shadow:0px 0px 5px 0px black;-webkit-box-shadow:0px 0px 5px 0px black;box-shadow:0px 0px 5px 0px black;*/}
+.fanIcon a{width:44px !important;height:44px !important;}
+div.shr-bookmarks div.shr-getshr{line-height:20px !important;padding-left:8px !important;float:left !important;}
+div.shr-bookmarks div.shr-getshr a{width:auto !important;font-size:10px !important;text-indent:0px !important;text-decoration:none !important;}
+.shrFan-2{background-position:0 0;width:52px;height:52px;}
+.shrFan-313{background-position:-102px 0;width:52px;height:52px;}
+.shrFan-5{background-position:-204px 0;width:52px;height:52px;}
+.shrFan-309{background-position:-408px 0;width:52px;height:52px;}
+.shrFan-78{background-position:-628px 0;width:52px;height:52px;}
+.shrFan-7{background-position:-730px 0;width:52px;height:52px;}
+.shrFan-304{background-position:-306px 0;width:52px;height:52px;}
